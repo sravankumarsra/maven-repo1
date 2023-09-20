@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1695188707736
+Build-Jdk: 17.0.8.1
+Built-By: root
+Bundle-ManifestVersion: 2
+Bundle-Name: A Camel CXF Blueprint Route
+Bundle-SymbolicName: maven-project
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.marolix.incident;uses:="org.apache.camel";version="1
+ .0.0.SNAPSHOT"
+Import-Package: org.apache.camel;version="[2.13,3)",org.osgi.service.blu
+ eprint;version="[1.0.0,2.0.0)"
+Tool: Bnd-1.50.0
